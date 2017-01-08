@@ -1,10 +1,10 @@
-package tn.zelda.projects.java;
+package tn.zelda.projects.java.rabbitmq.simple;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 
-public class Send {
+public class Producer {
 
 	private final static String QUEUE_NAME = "my-rabbit-q1";
 

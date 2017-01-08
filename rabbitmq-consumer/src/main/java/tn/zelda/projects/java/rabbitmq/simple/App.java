@@ -1,4 +1,4 @@
-package tn.zelda.projects.java;
+package tn.zelda.projects.java.rabbitmq.simple;
 
 /**
  * Hello world!
