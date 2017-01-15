@@ -1,4 +1,4 @@
-package tn.zelda.projects.java8.samples;
+package tn.zelda.projects.java8.samples.lambda;
 
 import java.util.ArrayList;
 import java.util.Arrays;
