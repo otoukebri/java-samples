@@ -14,7 +14,7 @@ public class MockUserComponent {
     }
 
     UserResponse fethUser() {
-
+        return null;
     }
 
 }
