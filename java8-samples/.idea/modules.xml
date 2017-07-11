@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/tn.zelda.projects.java8.iml" filepath="$PROJECT_DIR$/tn.zelda.projects.java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8-samples.iml" filepath="$PROJECT_DIR$/java8-samples.iml" />
     </modules>
   </component>
 </project>
